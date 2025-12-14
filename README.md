@@ -1,7 +1,7 @@
 # snotes-ai-learning-platform
 AI-powered platform that transforms lectures into summaries, flashcards, quizzes &amp; mind maps using Whisper, GPT, and LangChain. Built with FastAPI + React.
 
-# 🎓 Snotes - AI-Powered Learning Platform
+# Snotes - AI-Powered Learning Platform
 
 > Transform long lecture recordings into clear, concise study materials with AI
 
@@ -10,20 +10,20 @@ AI-powered platform that transforms lectures into summaries, flashcards, quizzes
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)
 ![React](https://img.shields.io/badge/React-18+-61dafb.svg)
 
-## 🌟 Overview
+##  Overview
 
 Snotes is an AI-powered web application that automatically converts lecture recordings and presentations into comprehensive study materials including summaries, flashcards, quizzes, and mind maps. Built to help students learn more efficiently and effectively.
 
-### ✨ Key Features
+###  Key Features
 
-- 📤 **Multi-Format Upload** - Support for video, audio, and presentation files
-- 📝 **AI Summaries** - Automatic generation of clear, concise lecture summaries
-- 🎴 **Flashcards** - Create study flashcards from key concepts
-- ❓ **Practice Quizzes** - Generate quizzes to test understanding
-- 🧠 **Mind Maps** - Visual hierarchical concept mapping
-- 📊 **Chapter Breakdowns** - Organized content sections for easy navigation
+-  **Multi-Format Upload** - Support for video, audio, and presentation files
+-  **AI Summaries** - Automatic generation of clear, concise lecture summaries
+-  **Flashcards** - Create study flashcards from key concepts
+-  **Practice Quizzes** - Generate quizzes to test understanding
+-  **Mind Maps** - Visual hierarchical concept mapping
+-  **Chapter Breakdowns** - Organized content sections for easy navigation
 
-## 🚀 Demo
+## Demo
 
 [Live Demo](https://your-demo-link.com) | [Video Walkthrough](https://your-video-link.com)
 
@@ -41,14 +41,14 @@ Snotes is an AI-powered web application that automatically converts lecture reco
 - **Tailwind CSS** - Utility-first CSS framework
 - **Lucide Icons** - Beautiful icon library
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.8+
 - Node.js 16+
 - AWS Account (for S3 storage)
 - OpenAI API Key
 
-## 🔧 Installation
+## Installation
 
 ### Backend Setup
 ```bash
@@ -99,7 +99,7 @@ HOST=0.0.0.0
 PORT=8000
 ```
 
-## 🎯 Usage
+##  Usage
 
 1. **Start the Backend Server**
 ```bash
@@ -118,7 +118,7 @@ PORT=8000
    - Wait for AI processing
    - View and download your study materials
 
-## 📁 Project Structure
+## Project Structure
 ```
 snotes-ai-learning-platform/
 ├── backend/
@@ -142,7 +142,7 @@ snotes-ai-learning-platform/
 └── LICENSE
 ```
 
-## 👥 Team
+##  Team
 
 - **Jefferson** - Backend Lead (FastAPI, LLM integration, chunking logic)
 - **Abdul Rahman** - Frontend Lead (Web UI, upload interface, output display)
@@ -157,7 +157,7 @@ snotes-ai-learning-platform/
 - **Week 5:** Frontend UI development + Backend integration
 - **Week 6:** Testing, bug fixes, and final demo preparation
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -167,29 +167,29 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - OpenAI for Whisper and GPT models
 - Anthropic for Claude assistance
 - LangChain team for the amazing framework
 - All contributors and testers
 
-## 📞 Contact
+##  Contact
 
 Project Link: [https://github.com/[your-username]/snotes-ai-learning-platform](https://github.com/[your-username]/snotes-ai-learning-platform)
 
 ---
 
-⭐ If you find this project helpful, please give it a star!
+ If you find this project helpful, please give it a star!
 ```
 
 ---
 
-## 🏷️ **GitHub Topics to Add:**
+##  **GitHub Topics to Add:**
 
 After creating the repository, add these topics:
 ```
