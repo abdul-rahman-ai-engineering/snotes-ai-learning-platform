@@ -25,7 +25,7 @@ Snotes is an AI-powered web application that automatically converts lecture reco
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com) | [Video Walkthrough](https://your-video-link.com)
+[Live Demo](https://) | [Video Walkthrough](https://)
 
 ## 🛠️ Tech Stack
 
